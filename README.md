@@ -1,12 +1,6 @@
-# Home Assistant Addons: Alessandro's repository
+# Home Assistant Addons: Marcus repository
 
-Add-ons for Home Assistant written by Alessandro Calzavara (DrAL3X).
-
-To add this repository, click the button below to open the add-on on your Home Assistant instance:
-
-[![Add add-on repository to my Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fdral3x%2Fha-addons)
-
-or do the following:
+To add this repository do the following:
 
 1. Go to your Home Assistant Frontend
 2. Open **Supervisor** > **Add-On Store**,
@@ -18,4 +12,4 @@ You should now see the add-ons of this repository in your Home Assistant Add-On 
 
 ## Add-ons provided by this repository
 
-- **[Sync Backups on S3](/sync-backups-s3)** - Sync your Home Assistant backups to Amazon S3
+- **[Sync Backups on S3](/sync-backups-s3)** - Sync your Home Assistant backups by [Alessandro Calzavara (DrAL3X)](https://github.com/dral3x/ha-addons).
